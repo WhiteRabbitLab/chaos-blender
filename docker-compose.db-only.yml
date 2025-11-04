@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database Only
+  # Use this if you want to run backend and frontend manually
+  postgres:
+    image: postgres:15-alpine
+    container_name: chaos-blender-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: chaos_user
+      POSTGRES_PASSWORD: chaos_password
+      POSTGRES_DB: chaos_blender
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U chaos_user -d chaos_blender"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
+    driver: local

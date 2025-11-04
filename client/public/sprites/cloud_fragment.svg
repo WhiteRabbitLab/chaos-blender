@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Cloud Fragment pixel art -->
+  <rect x="12" y="12" width="4" height="4" fill="#E0F6FF"/>
+  <rect x="16" y="12" width="4" height="4" fill="#E0F6FF"/>
+  <rect x="8" y="16" width="4" height="4" fill="#E0F6FF"/>
+  <rect x="12" y="16" width="4" height="4" fill="#FFFFFF"/>
+  <rect x="16" y="16" width="4" height="4" fill="#FFFFFF"/>
+  <rect x="20" y="16" width="4" height="4" fill="#E0F6FF"/>
+  <rect x="8" y="20" width="4" height="4" fill="#E0F6FF"/>
+  <rect x="12" y="20" width="4" height="4" fill="#E0F6FF"/>
+  <rect x="16" y="20" width="4" height="4" fill="#E0F6FF"/>
+  <rect x="20" y="20" width="4" height="4" fill="#E0F6FF"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Carrot pixel art -->
+  <rect x="12" y="4" width="4" height="4" fill="#228B22"/>
+  <rect x="16" y="4" width="4" height="4" fill="#228B22"/>
+  <rect x="12" y="8" width="4" height="4" fill="#228B22"/>
+  <rect x="16" y="8" width="4" height="4" fill="#228B22"/>
+  <rect x="20" y="8" width="4" height="4" fill="#228B22"/>
+  <rect x="12" y="12" width="4" height="4" fill="#FF8C00"/>
+  <rect x="16" y="12" width="4" height="4" fill="#FF8C00"/>
+  <rect x="12" y="16" width="4" height="4" fill="#FF8C00"/>
+  <rect x="16" y="16" width="4" height="4" fill="#FFA500"/>
+  <rect x="12" y="20" width="4" height="4" fill="#FF8C00"/>
+  <rect x="16" y="20" width="4" height="4" fill="#FF8C00"/>
+  <rect x="16" y="24" width="4" height="4" fill="#FF8C00"/>
+</svg>

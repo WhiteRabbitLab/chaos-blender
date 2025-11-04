@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Fairy Dust pixel art -->
+  <rect x="8" y="8" width="2" height="2" fill="#DA70D6"/>
+  <rect x="12" y="10" width="2" height="2" fill="#DA70D6"/>
+  <rect x="16" y="8" width="2" height="2" fill="#DA70D6"/>
+  <rect x="20" y="12" width="2" height="2" fill="#DA70D6"/>
+  <rect x="10" y="14" width="2" height="2" fill="#EE82EE"/>
+  <rect x="14" y="16" width="2" height="2" fill="#DA70D6"/>
+  <rect x="18" y="14" width="2" height="2" fill="#EE82EE"/>
+  <rect x="12" y="20" width="2" height="2" fill="#DA70D6"/>
+  <rect x="16" y="22" width="2" height="2" fill="#DA70D6"/>
+  <rect x="20" y="20" width="2" height="2" fill="#EE82EE"/>
+  <rect x="6" y="16" width="2" height="2" fill="#FFB6FF"/>
+  <rect x="22" y="18" width="2" height="2" fill="#FFB6FF"/>
+  <rect x="14" y="12" width="4" height="4" fill="#EE82EE" opacity="0.6"/>
+  <rect x="10" y="18" width="4" height="4" fill="#DA70D6" opacity="0.6"/>
+</svg>

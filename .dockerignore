@@ -1,0 +1,38 @@
+# Backend
+server/venv/
+server/__pycache__/
+server/*.pyc
+server/.env
+server/.pytest_cache/
+server/htmlcov/
+
+# Frontend
+client/node_modules/
+client/build/
+client/.env.local
+client/.env.*.local
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+*.md
+!README.md
+
+# Docker
+docker-compose*.yml
+Dockerfile*

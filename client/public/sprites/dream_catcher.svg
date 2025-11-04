@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Dream Catcher pixel art -->
+  <rect x="14" y="4" width="4" height="4" fill="#8B4513"/>
+  <rect x="8" y="10" width="4" height="4" fill="#D2691E"/>
+  <rect x="12" y="10" width="4" height="4" fill="#D2691E"/>
+  <rect x="16" y="10" width="4" height="4" fill="#D2691E"/>
+  <rect x="20" y="10" width="4" height="4" fill="#D2691E"/>
+  <rect x="8" y="14" width="4" height="4" fill="#D2691E"/>
+  <rect x="12" y="14" width="4" height="4" fill="#F5DEB3"/>
+  <rect x="16" y="14" width="4" height="4" fill="#F5DEB3"/>
+  <rect x="20" y="14" width="4" height="4" fill="#D2691E"/>
+  <rect x="8" y="18" width="4" height="4" fill="#D2691E"/>
+  <rect x="20" y="18" width="4" height="4" fill="#D2691E"/>
+  <rect x="12" y="18" width="4" height="4" fill="#F5DEB3"/>
+  <rect x="16" y="18" width="4" height="4" fill="#F5DEB3"/>
+  <rect x="12" y="22" width="4" height="4" fill="#D2691E"/>
+  <rect x="16" y="22" width="4" height="4" fill="#D2691E"/>
+  <rect x="10" y="26" width="2" height="2" fill="#87CEEB"/>
+  <rect x="20" y="26" width="2" height="2" fill="#87CEEB"/>
+</svg>
